@@ -19,15 +19,16 @@
 </p>
 
 ---
-
+<!-- 
 📍10% Off Coupon Code: PYLINSONOFF
-📍Referral URL is: https://itead.cc/ref/314/
+📍 -->
 
 ## Featured Nextion Products
 
-Use the 10% coupon code `PYLINSONOFF` at checkout. Referral: https://itead.cc/ref/314/
+<!-- Use the 10% coupon code `PYLINSONOFF` at checkout. Referral: https://itead.cc/ref/314/ -->
 
-<h1 align = "left">🌟Use the 10% coupon code `PYLINSONOFF` at checkout🌟</h1>
+<h2 align = "left">🌟10% coupon code `PYLINSONOFF` at checkout🌟</h2>
+<h2 align = "left">🌟Referral URL is: https://itead.cc/ref/314/🌟</h2>
 
 | Product | Quick Links | SKU | 
 |---|---|---|
