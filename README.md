@@ -19,10 +19,13 @@
 
 ---
 
-## Featured Nextion Products
+| 📣Referral URL | 🎫10% coupon code | Discount | 
+|---|---|---|
+|[**[Visit]**](https://itead.cc/ref/314/)|`PYLINSONOFF`|**10%**|
 
-<h3 align = "left">🎫10% coupon code `PYLINSONOFF` at checkout</h3>
-<h3 align = "left">📣Referral URL is: https://itead.cc/ref/314/</h3>
+---
+
+## Featured Nextion Products
 
 | Product | Quick Links | SKU | 
 |---|---|---|
