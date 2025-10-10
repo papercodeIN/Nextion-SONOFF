@@ -34,6 +34,11 @@ Use the 10% coupon code `PYLINSONOFF` at checkout. Referral: https://itead.cc/re
 | **Nextion Foca Max** | [Buy](https://itead.cc/product/nextion-foca-max-5v2a-output-usb-to-ttl-serial-converter-board/ref/314/) | 6920075776812 |
 | **Nextion BOX Speaker** | [Buy](https://itead.cc/product/nextion-box-speaker/ref/314/) | 6920075776812 |
 | **Nextion Micro SD Card Extender (SDExtender)** | [Buy](https://itead.cc/product/nextion-micro-sd-card-extender/ref/314/) | 6920075776812 |
+|DW2-RF – 433MHz RF Wireless Door/Window Sensor |[Buy](https://itead.cc/product/sonoff-dw2-rf-433mhz-rf-wireless-door-window-sensor/ref/314/)||
+|DW2-Wi-Fi – Wireless Door/Window Sensor|[Buy](https://itead.cc/product/sonoff-dw2/ref/314/)||
+||[Buy]()||
+||[Buy]()||
+
 
 <!-- <details>
 <summary>Product details & notes (expand)</summary>
