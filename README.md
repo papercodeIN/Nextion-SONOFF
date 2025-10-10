@@ -20,6 +20,36 @@
 
 ---
 
+📍10% Off Coupon Code: PYLINSONOFF
+📍Referral URL is: https://itead.cc/ref/314/
+
+## Featured Nextion Products
+
+Use the 10% coupon code `PYLINSONOFF` at checkout. Referral: https://itead.cc/ref/314/
+
+| Product | Quick Links |
+|---|---|
+| **NX4827P043-011C-Y**<br/>Intelligent Series 4.3" (Capacitive, IPS) | [Buy](https://itead.cc/product/4-3-nextion-intelligent-series-hmi-touch-display-with-enclosure/ref/314/) • SKU: 6920075771879 |
+| **NX4832F035**<br/>Discovery Series 3.5" (Resistive) | [Buy](https://itead.cc/product/nx4832f035-nextion-3-5-discovery-series-hmi-touch-display/ref/314/) • SKU: 6920075776812 |
+| **Nextion Foca Max**<br/>USB → TTL Serial Converter (5V, 2A) | [Buy](https://itead.cc/product/nextion-foca-max-5v2a-output-usb-to-ttl-serial-converter-board/ref/314/) • SKU: 6920075776812 |
+| **Nextion BOX Speaker** | [Buy](https://itead.cc/product/nextion-box-speaker/ref/314/) • SKU: 6920075776812 |
+| **Nextion Micro SD Card Extender (SDExtender)** | [Buy](https://itead.cc/product/nextion-micro-sd-card-extender/ref/314/) • SKU: 6920075776812 |
+
+<details>
+<summary>Product details & notes (expand)</summary>
+
+- NX4827P043-011C-Y: Intelligent series includes enclosure and capacitive touch. Recommended for modern projects where touch responsiveness and viewing angles matter.
+- NX4832F035: Discovery series is great for prototyping and low-cost displays.
+- Foca Max: Useful for flashing Nextion displays or connecting to microcontrollers via USB.
+- BOX Speaker: Integrates audio for multimedia projects.
+- SDExtender: Handy for loading large assets (images, audio) onto a microSD for Nextion projects.
+
+Tip: Click any Buy link to open the product page. Apply coupon code at checkout to receive the discount.
+
+</details>
+
+---
+
 <h1 align="center">📢 Reach Out to Us for Any Queries ⤵️</h1>
 
 <table align="center">
