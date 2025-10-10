@@ -29,9 +29,9 @@ Use the 10% coupon code `PYLINSONOFF` at checkout. Referral: https://itead.cc/re
 
 | Product | Quick Links | SKU | 
 |---|---|---|
-| **NX4827P043-011C-Y**<br/>Intelligent Series 4.3" (Capacitive, IPS) | [Buy](https://itead.cc/product/4-3-nextion-intelligent-series-hmi-touch-display-with-enclosure/ref/314/) |  6920075771879 |
-| **NX4832F035**<br/>Discovery Series 3.5" (Resistive) | [Buy](https://itead.cc/product/nx4832f035-nextion-3-5-discovery-series-hmi-touch-display/ref/314/) | 6920075776812 |
-| **Nextion Foca Max**<br/>USB → TTL Serial Converter (5V, 2A) | [Buy](https://itead.cc/product/nextion-foca-max-5v2a-output-usb-to-ttl-serial-converter-board/ref/314/) | 6920075776812 |
+| **NX4827P043-011C-Y** | [Buy](https://itead.cc/product/4-3-nextion-intelligent-series-hmi-touch-display-with-enclosure/ref/314/) |  6920075771879 |
+| **NX4832F035** | [Buy](https://itead.cc/product/nx4832f035-nextion-3-5-discovery-series-hmi-touch-display/ref/314/) | 6920075776812 |
+| **Nextion Foca Max** | [Buy](https://itead.cc/product/nextion-foca-max-5v2a-output-usb-to-ttl-serial-converter-board/ref/314/) | 6920075776812 |
 | **Nextion BOX Speaker** | [Buy](https://itead.cc/product/nextion-box-speaker/ref/314/) | 6920075776812 |
 | **Nextion Micro SD Card Extender (SDExtender)** | [Buy](https://itead.cc/product/nextion-micro-sd-card-extender/ref/314/) | 6920075776812 |
 
