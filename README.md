@@ -1,5 +1,6 @@
 <h1 align = "center">🌟Nextion - SONOFF🌟</h1>
- 
+<h1 align = "center">🌟10% Off Coupon Code: PYLINSONOFF🌟</h1>
+
 ---
 <p align="center">
   <span style="font-size: 1.1em; color: #FFD700; font-weight: bold;">✨ Enjoying this project? Support our work! ✨</span>
