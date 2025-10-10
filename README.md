@@ -19,6 +19,8 @@
 
 ---
 
+<h2 align = "center">🌟Discount / Coupon Code🌟</h2>
+
 | 📣Referral URL | 🎫10% coupon code | Discount | 
 |---|---|---|
 |[**[Visit]**](https://itead.cc/ref/314/)|`PYLINSONOFF`|**10%**|
