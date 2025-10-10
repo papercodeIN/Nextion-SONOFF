@@ -27,7 +27,7 @@
 
 ---
 
-## Featured Nextion Products
+$\color{Orange}\Huge{\textbf{Featured Nextion Products}}$
 
 | Product | Quick Links | SKU | 
 |---|---|---|
