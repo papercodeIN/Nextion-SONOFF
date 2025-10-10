@@ -58,6 +58,8 @@ Tip: Click any Buy link to open the product page. Apply coupon code at checkout 
 
 ---
 
+$\color{Green}\Huge{\textbf{Shorts}}$
+
 1. 🆓️Unboxing | Nextion HMI | Box Speaker | Micro SD Card Extender | Foca Max | IoT | IIoT | [Watch](https://youtube.com/shorts/QhYF7tbJfUA)
 2. 🆓️4.3" Nextion Intelligent Series HMI Touch Display Demo | IoT | IIoT | Display | Nextion | [Watch](https://youtube.com/shorts/-_VOizNZ0M0)
 3. 🆓️Unscrewing 4.3" Nextion Intelligent Series HMI Touch Display | IoT | IIoT | Display | Nextion | [Watch](https://youtube.com/shorts/pvZBPkx6Nbg)
