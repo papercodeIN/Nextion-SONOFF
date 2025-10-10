@@ -27,8 +27,8 @@
 
 <!-- Use the 10% coupon code `PYLINSONOFF` at checkout. Referral: https://itead.cc/ref/314/ -->
 
-<h2 align = "left">🌟10% coupon code `PYLINSONOFF` at checkout🌟</h2>
-<h2 align = "left">🌟Referral URL is: https://itead.cc/ref/314/🌟</h2>
+<h3 align = "left">🌟10% coupon code `PYLINSONOFF` at checkout🌟</h3>
+<h3 align = "left">🌟Referral URL is: https://itead.cc/ref/314/🌟</h3>
 
 | Product | Quick Links | SKU | 
 |---|---|---|
