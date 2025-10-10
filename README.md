@@ -35,7 +35,7 @@ Use the 10% coupon code `PYLINSONOFF` at checkout. Referral: https://itead.cc/re
 | **Nextion BOX Speaker** | [Buy](https://itead.cc/product/nextion-box-speaker/ref/314/) • SKU: 6920075776812 |
 | **Nextion Micro SD Card Extender (SDExtender)** | [Buy](https://itead.cc/product/nextion-micro-sd-card-extender/ref/314/) • SKU: 6920075776812 |
 
-<details>
+<!-- <details>
 <summary>Product details & notes (expand)</summary>
 
 - NX4827P043-011C-Y: Intelligent series includes enclosure and capacitive touch. Recommended for modern projects where touch responsiveness and viewing angles matter.
@@ -46,7 +46,7 @@ Use the 10% coupon code `PYLINSONOFF` at checkout. Referral: https://itead.cc/re
 
 Tip: Click any Buy link to open the product page. Apply coupon code at checkout to receive the discount.
 
-</details>
+</details> -->
 
 ---
 
