@@ -68,8 +68,8 @@ $\color{Green}\Huge{\textbf{Shorts}}$
 6. 🆓️Nextion Micro SD Card Extender Module Unboxing | Nextion | [Watch](https://youtube.com/shorts/s8hJhr4Kst0)
 7. 🆓️Nextion Discovery Series 3 5” Resistive HMI Touchscreen Display Introduction | IoT | IIoT | HMI | [Watch](https://youtube.com/shorts/BouULLZ8EqA)
 8. 🆓️SONOFF DW2-WiFi Unboxing | Wireless Smart Home Sensor for Doors & Windows | [Watch](https://youtube.com/shorts/iy4qzqwsN58)
-9. ✅Unboxing the Nextion Edge Series 4.3 Inch HMI Display [Watch](https://youtube.com/shorts/nLu4Q4b3F3E)
-10. ✅Unboxing the Nextion Edge Series 2.1 Inch Round HMI Display [Watch](https://youtube.com/shorts/M8cbclpoaIs)
+9. 🆓️Unboxing the Nextion Edge Series 4.3 Inch HMI Display [Watch](https://youtube.com/shorts/nLu4Q4b3F3E)
+10. 🆓️Unboxing the Nextion Edge Series 2.1 Inch Round HMI Display [Watch](https://youtube.com/shorts/M8cbclpoaIs)
 
 ---
 
