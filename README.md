@@ -23,7 +23,8 @@
 
 | 📣Referral URL | 🎫10% coupon code | 🔖Discount | 
 |---|---|---|
-|[**[Visit]**](https://itead.cc/ref/314/)|`PYLINSONOFF`|**10%**|
+|[**[itead.cc]**](https:///ref/314/)|`PYLINSONOFF`|**10%**|
+|[**[sonoff.tech]**](https://sonoff.tech/246)|||
 
 ---
 
