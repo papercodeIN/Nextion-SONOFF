@@ -30,12 +30,14 @@
 
 $\color{Green}\Huge{\textbf{Long Videos}}$
 
-1. ⏳️WiFi Clock with ESP32 [Project](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/WiFi_Clock_ESP32%20-%2010-OCT-2025)
-2. ⏳️Weather Clock with ESP32 [Project](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/Weather_Clock_ESP32%20-%2010-OCT-2025)
-3. ⏳️GPIO Control of ESP32 [Project](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/GPIO_Control_ESP32%20-%2010-OCT-2025)
-4. ⏳️Weather Station with Clock using ESP32 and DHT11 [Project](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/Weather_Clock_ESP32_DHT11%20-%2010-OCT-2025)
-5. ⏳️GPIO Control of Raspberry Pi Pico [Project](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/GPIO_Control_RPI-PICO%20-%2010-OCT-2025)
-6. 
+1. ⏳️WiFi Clock with ESP32 [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/WiFi_Clock_ESP32%20-%2010-OCT-2025)
+2. ⏳️Weather Clock with ESP32 [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/Weather_Clock_ESP32%20-%2010-OCT-2025)
+3. ⏳️GPIO Control of ESP32 [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/GPIO_Control_ESP32%20-%2010-OCT-2025)
+4. ⏳️Weather Station with Clock using ESP32 and DHT11 [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/Weather_Clock_ESP32_DHT11%20-%2010-OCT-2025)
+5. ⏳️GPIO Control of Raspberry Pi Pico [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/GPIO_Control_RPI-PICO%20-%2010-OCT-2025)
+6. ⏳️Modbus Serial HMI
+6. ⏳️Modbus TCP/IP HMI
+6. ⏳️MQTT HMI
 
 ---
 
