@@ -1,7 +1,7 @@
 #include <HardwareSerial.h>
 
 HardwareSerial Nextion(2); // Serial2 on ESP32
-const int ledPin = 2;
+const int ledPin = 5;
 
 // LED states
 enum LedState {
