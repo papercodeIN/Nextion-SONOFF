@@ -30,17 +30,18 @@
 
 $\color{Green}\Huge{\textbf{Long Videos}}$
 
-1. ⏳️WiFi Clock with ESP32 [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/WiFi_Clock_ESP32%20-%2010-OCT-2025)
+1. ⏳️WiFi Clock with ESP32 + Pomodoro [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/WiFi_Clock_ESP32%20-%2010-OCT-2025)
 2. ⏳️WiFi Clock with ESP32 [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/WiFi_Clock_ESP32%20-%2015-OCT-2025)
 3. ⏳️WiFi Clock with ESP8266 (NodeMCU) [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/WiFi_Clock_ESP8266%20-%2015-OCT-2025)
 4. ⏳️Weather Clock with ESP32 [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/Weather_Clock_ESP32%20-%2010-OCT-2025)
-5. ⏳️GPIO Control of ESP32 [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/GPIO_Control_ESP32%20-%2010-OCT-2025)
-6. ⏳️Weather Station with Clock using ESP32 and DHT11 [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/Weather_Clock_ESP32_DHT11%20-%2010-OCT-2025)
-7. ⏳️GPIO Control of Raspberry Pi Pico [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/GPIO_Control_RPI-PICO%20-%2010-OCT-2025)
-8. ⏳️Modbus Serial HMI with ESP32
-9. ⏳️Modbus TCP/IP HMI with ESP32
-10. ⏳️MQTT HMI with ESP32
-11. ⏳️Business Card with QR Code with ESP32
+5. ⏳️GPIO Control of ESP32 + Momentary Button [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/GPIO_Control_ESP32%20-%2010-OCT-2025)
+6. ⏳️GPIO Control of ESP32 + Toggle Button [Project](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/GPIO_Control_ESP32%20-%2016-OCT-2025)
+7. ⏳️Weather Station with Clock using ESP32 and DHT11 [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/Weather_Clock_ESP32_DHT11%20-%2010-OCT-2025)
+8. ⏳️GPIO Control of Raspberry Pi Pico [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/GPIO_Control_RPI-PICO%20-%2010-OCT-2025)
+9. ⏳️Modbus Serial HMI with ESP32
+10. ⏳️Modbus TCP/IP HMI with ESP32
+11. ⏳️MQTT HMI with ESP32
+12. ⏳️Business Card with QR Code with ESP32
 
 ---
 
