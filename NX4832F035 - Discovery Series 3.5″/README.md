@@ -28,6 +28,9 @@
 
 ---
 
+$\color{Green}\Huge{\textbf{Shorts}}$
+1. ⏳️WiFi Clock with ESP8266 (NodeMCU) [[Watch]]()  [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/WiFi_Clock_ESP8266%20-%2015-OCT-2025)
+
 $\color{Green}\Huge{\textbf{Long Videos}}$
 
 1. ⏳️WiFi Clock with ESP32 + Pomodoro [[Project]](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4832F035%20-%20Discovery%20Series%203.5%E2%80%B3/Projects/WiFi_Clock_ESP32%20-%2010-OCT-2025)
