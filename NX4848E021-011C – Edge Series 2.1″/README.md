@@ -29,6 +29,10 @@
 
 ---
 
+$\color{Green}\Huge{\textbf{Shorts}}$
+1. ✅Unboxing the Nextion NX4848E021-011C Nextion 2.1″ Edge Series HMI Touch Display [[Watch]](https://youtube.com/shorts/M8cbclpoaIs)
+2. ✅Nextion NX4848E021-011C - EDGE Series 2.1 Inch Round HMI Touch Display DEMO [[Watch]](https://youtube.com/shorts/5yF3GLjfO9w)
+
 $\color{Green}\Huge{\textbf{Long Videos}}$
 
 1. ⏳️WiFi Clock with ESP32
