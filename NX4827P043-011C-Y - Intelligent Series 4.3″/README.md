@@ -30,15 +30,6 @@
 
 ---
 
-## 🎬 Shorts Video Showcase
-
-| No. | Title                                      | Watch Link                                                                 | Project Link                                                                 |
-|-----|--------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| 1   | 🆓 Unboxing the Nextion NX4880E043-011C Nextion 4.3″ Edge Series HMI Touch Display | [▶️ Watch](https://youtube.com/shorts/nLu4Q4b3F3E) |  |
-| 2   | 🆓 Nextion NX4880E043-011C Nextion 4.3″ Edge Series HMI Touch Display Demo | [▶️ Watch]() | |
-
----
-
 $\color{Green}\Huge{\textbf{Long Videos}}$
 
 1. ⏳️WiFi Clock with ESP32
