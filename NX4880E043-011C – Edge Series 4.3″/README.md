@@ -35,7 +35,7 @@
 |-----|--------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 1   | 🆓 Unboxing the Nextion NX4880E043-011C Nextion 4.3″ Edge Series HMI Touch Display | [▶️ Watch](https://youtube.com/shorts/nLu4Q4b3F3E) |  |
 | 2   | 🆓 Nextion NX4880E043-011C Nextion 4.3″ Edge Series HMI Touch Display Demo | [▶️ Watch](https://youtube.com/shorts/39vQEUAWKss) | |
-| 3   | 🆓 Digital Photo Frame using Nextion NX4880E043-011C Nextion 4.3″ Edge Series HMI Display | [▶️ Watch]() | |
+| 3   | 🆓 Digital Photo Frame using Nextion NX4880E043-011C Nextion 4.3″ Edge Series HMI Display | [▶️ Watch]() | [📁 Project](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4880E043-011C%20%E2%80%93%20Edge%20Series%204.3%E2%80%B3/Project/Simple%20Digital%20Photo%20Frame) |
 
 ---
 $\color{Green}\Huge{\textbf{Long Videos}}$
