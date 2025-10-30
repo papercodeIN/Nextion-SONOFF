@@ -35,7 +35,7 @@
 |-----|--------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 1   | 🆓 Unboxing the Nextion NX4848E021-011C Nextion 2.1″ Edge Series HMI Touch Display | [▶️ Watch](https://youtube.com/shorts/5yF3GLjfO9w) |  |
 | 2   | 🆓 Nextion NX4848E021-011C - EDGE Series 2.1 Inch Round HMI Touch Display DEMO | [▶️ Watch](https://youtube.com/shorts/5yF3GLjfO9w) | |
-| 3   | 🆓 Digital Photo Frame using Nextion NX4848E021-011C - EDGE Series 2.1 Inch Round HMI Display | [▶️ Watch] | [📁 Project] |
+| 3   | 🆓 Digital Photo Frame using Nextion NX4848E021-011C - EDGE Series 2.1 Inch Round HMI Display | [▶️ Watch](https://youtube.com/shorts/NMhzixNc39A) | [📁 Project](https://github.com/papercodeIN/Nextion-SONOFF/tree/main/NX4848E021-011C%20%E2%80%93%20Edge%20Series%202.1%E2%80%B3/Project/Simple%20Digital%20Photo%20Frame) |
 
 ---
 
