@@ -58,18 +58,18 @@ Tip: Click any Buy link to open the product page. Apply coupon code at checkout 
 
 ---
 
-$\color{Green}\Huge{\textbf{Shorts}}$
+## 🎬 Shorts Video Showcase
 
-1. 🆓️Unboxing | Nextion HMI | Box Speaker | Micro SD Card Extender | Foca Max | IoT | IIoT | [Watch](https://youtube.com/shorts/QhYF7tbJfUA)
-2. 🆓️4.3" Nextion Intelligent Series HMI Touch Display Demo | IoT | IIoT | Display | Nextion | [Watch](https://youtube.com/shorts/-_VOizNZ0M0)
-3. 🆓️Unscrewing 4.3" Nextion Intelligent Series HMI Touch Display | IoT | IIoT | Display | Nextion | [Watch](https://youtube.com/shorts/pvZBPkx6Nbg)
-4. 🆓️Unboxing Nextion Box Speaker | Nextion | 2W | 100Hz to 3KHz | [Watch](https://youtube.com/shorts/3-6pe_mP1xQ)
-5. 🆓️Nextion Micro SD Card Extender Module with Raspberry Pi | Nextion | [Watch](https://youtube.com/shorts/4_cNtVUnO7A)
-6. 🆓️Nextion Micro SD Card Extender Module Unboxing | Nextion | [Watch](https://youtube.com/shorts/s8hJhr4Kst0)
-7. 🆓️Nextion Discovery Series 3 5” Resistive HMI Touchscreen Display Introduction | IoT | IIoT | HMI | [Watch](https://youtube.com/shorts/BouULLZ8EqA)
-8. 🆓️SONOFF DW2-WiFi Unboxing | Wireless Smart Home Sensor for Doors & Windows | [Watch](https://youtube.com/shorts/iy4qzqwsN58)
-9. 🆓️Unboxing the Nextion Edge Series 4.3 Inch HMI Display [Watch](https://youtube.com/shorts/nLu4Q4b3F3E)
-10. 🆓️Unboxing the Nextion Edge Series 2.1 Inch Round HMI Display [Watch](https://youtube.com/shorts/M8cbclpoaIs)
+| No. | Title                                      | Watch Link                                                                 | 
+|-----|--------------------------------------------|----------------------------------------------------------------------------|
+| 1   | 🆓️ Unboxing | Nextion HMI | Box Speaker | Micro SD Card Extender | Foca Max | IoT | IIoT | | [▶️ Watch](https://youtube.com/shorts/QhYF7tbJfUA) |
+| 2   | 🆓️ 4.3" Nextion Intelligent Series HMI Touch Display Demo | [Watch](https://youtube.com/shorts/-_VOizNZ0M0) |
+| 3   | 🆓️ Unscrewing 4.3" Nextion Intelligent Series HMI Touch Display | [Watch](https://youtube.com/shorts/pvZBPkx6Nbg) |
+| 4   | 🆓️ Unboxing Nextion Box Speaker - 2W - 100Hz to 3KHz | [Watch](https://youtube.com/shorts/3-6pe_mP1xQ) |
+| 5   | 🆓️ Nextion Micro SD Card Extender Module with Raspberry Pi | [Watch](https://youtube.com/shorts/4_cNtVUnO7A) |
+| 6   | 🆓️ Nextion Micro SD Card Extender Module Unboxing | [Watch](https://youtube.com/shorts/s8hJhr4Kst0) |
+| 7   | 🆓️ Nextion Discovery Series 3 5” Resistive HMI Touchscreen Display Introduction | [Watch](https://youtube.com/shorts/BouULLZ8EqA) |
+| 8   | 🆓️ SONOFF DW2-WiFi Unboxing - Wireless Smart Home Sensor for Doors & Windows | [Watch](https://youtube.com/shorts/iy4qzqwsN58) |
 
 ---
 
