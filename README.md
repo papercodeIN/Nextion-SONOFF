@@ -109,22 +109,6 @@ Quick demos and unboxings on the [Fusion Automate YouTube channel](https://www.y
 2. Pick a project above, open the `.HMI` in the editor and upload the display assets to the panel (direct serial or an [Foca Max](https://itead.cc/product/nextion-foca-max-5v2a-output-usb-to-ttl-serial-converter-board/ref/314/)).
 3. Flash the matching Arduino sketch to the ESP32/ESP8266/Pico and follow the wiring photo in the project folder.
 
-## Support
-
-If these projects help you, consider supporting the channel:
-
-<a href="https://buymeacoffee.com/pylin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="36"></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCKKhdFV0q8CV5vWUDfiDfTw" target="_blank"><img src="https://img.shields.io/badge/SUBSCRIBE%20ON%20YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe on YouTube" height="36"></a>
-
-## Contact
-
-| Method | Details |
-|---|---|
-| Call / WhatsApp | [+91-9974477759](https://wa.me/919974477759) |
-| Telegram | [@fusionautomate](https://t.me/fusionautomate) |
-| Email | [eng.innovativ@gmail.com](mailto:eng.innovativ@gmail.com) |
-
 ---
 
 ## 📞 Contact
